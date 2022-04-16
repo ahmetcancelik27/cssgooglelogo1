@@ -1,0 +1,58 @@
+.logo {
+    text-align: center;
+    margin:au;
+    width: auto;
+    padding:10px;
+    
+
+}
+
+.search {
+    width: auto;
+    margin:auto;
+    padding: 0px;
+}
+
+.diva {
+    height:100px;
+    width: 500px;
+    float: left;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 3px;
+    
+}
+
+.divb {
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    float: left;
+    background-color: rgb(144, 144, 194);
+    margin: 2px 0 0 2px;
+    
+}
+.divc {
+    text-align: center;
+    height: 100px;
+    width: 594px;
+    float: left;
+    background-color:cadetblue;
+    margin: 2px;
+      
+}
+
+p {
+    margin: auto;
+}
+
+.input {
+    width: 400px;
+}
+
+
+
+
+
+
+
